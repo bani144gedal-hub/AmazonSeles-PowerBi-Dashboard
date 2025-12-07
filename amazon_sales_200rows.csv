@@ -1,0 +1,201 @@
+Order ID,Order Date,Customer Name,Product,Category,Region,Quantity,Sales,Profit,Payment Mode
+2001,2024-01-03,Rohit,Mobile Case,Accessories,East,2,35277,152,UPI
+2002,2024-04-23,Rohit,Smartwatch,Electronics,North,1,13791,1539,Cash on Delivery
+2003,2024-02-22,Karan,Mouse,Accessories,North,2,48627,2665,Debit Card
+2004,2024-04-21,Meera,Mouse,Accessories,East,3,45542,3291,Net Banking
+2005,2024-01-24,Karan,Charger,Accessories,South,3,53446,7255,Cash on Delivery
+2006,2024-03-06,Vikram,Power Bank,Electronics,East,1,29096,2759,UPI
+2007,2024-04-19,Rohit,Keyboard,Accessories,East,1,9050,1469,UPI
+2008,2024-04-17,Rohit,Keyboard,Accessories,West,3,57559,4582,Cash on Delivery
+2009,2024-04-05,Vikram,Smartwatch,Electronics,South,1,48751,8964,Debit Card
+2010,2024-02-22,Diya,Mobile Case,Accessories,East,1,18106,1954,Cash on Delivery
+2011,2024-04-21,Nisha,Bluetooth Speaker,Electronics,North,3,10798,1840,Cash on Delivery
+2012,2024-01-31,Arjun,Keyboard,Accessories,North,1,44114,3990,Debit Card
+2013,2024-04-20,Diya,Keyboard,Accessories,West,2,15850,6805,Credit Card
+2014,2024-02-12,Karan,Mobile Case,Accessories,West,2,47817,9650,Net Banking
+2015,2024-04-15,Karan,Keyboard,Accessories,South,2,56151,7650,Cash on Delivery
+2016,2024-03-25,Nisha,Laptop,Electronics,North,3,38419,1800,Net Banking
+2017,2024-03-18,Aarav,Bluetooth Speaker,Electronics,East,2,34855,7297,Cash on Delivery
+2018,2024-04-22,Arjun,Smartwatch,Electronics,West,3,20192,5484,Credit Card
+2019,2024-04-26,Rohit,Laptop,Electronics,South,3,43483,9615,UPI
+2020,2024-01-05,Riya,Bluetooth Speaker,Electronics,North,3,32065,8619,Debit Card
+2021,2024-01-06,Rohit,Power Bank,Electronics,East,1,18385,5150,Net Banking
+2022,2024-04-26,Nisha,Mobile Case,Accessories,West,1,53888,3315,Cash on Delivery
+2023,2024-02-19,Sneha,Power Bank,Electronics,West,2,53616,3748,Cash on Delivery
+2024,2024-01-17,Nisha,Keyboard,Accessories,South,2,30359,5244,Debit Card
+2025,2024-04-29,Nisha,Mobile Case,Accessories,West,1,42360,8539,Credit Card
+2026,2024-01-31,Aarav,Smartwatch,Electronics,North,2,34830,5814,Debit Card
+2027,2024-02-07,Nisha,Bluetooth Speaker,Electronics,East,3,29613,8458,Net Banking
+2028,2024-01-25,Aarav,Mouse,Accessories,East,3,8295,9265,Credit Card
+2029,2024-04-16,Riya,Bluetooth Speaker,Electronics,North,3,45407,8938,Credit Card
+2030,2024-02-12,Sneha,Power Bank,Electronics,South,1,57523,9471,Credit Card
+2031,2024-02-16,Diya,Charger,Accessories,West,3,46784,7456,UPI
+2032,2024-01-01,Aarav,Charger,Accessories,South,1,19960,3577,Credit Card
+2033,2024-01-19,Arjun,Laptop,Electronics,West,1,50203,6014,UPI
+2034,2024-04-01,Karan,Mobile Case,Accessories,North,1,44149,4548,Net Banking
+2035,2024-04-07,Sneha,Mouse,Accessories,East,2,54428,8551,Cash on Delivery
+2036,2024-01-21,Sneha,Smartwatch,Electronics,South,1,10203,9810,Net Banking
+2037,2024-04-17,Sneha,Power Bank,Electronics,North,1,4999,5516,Net Banking
+2038,2024-02-14,Rohit,Keyboard,Accessories,North,2,47530,2868,UPI
+2039,2024-01-19,Diya,Mobile Case,Accessories,South,3,48318,2801,Cash on Delivery
+2040,2024-03-13,Rohit,Tablet,Electronics,West,1,2882,2788,UPI
+2041,2024-04-08,Riya,Tablet,Electronics,South,2,57582,7052,Debit Card
+2042,2024-04-25,Aarav,Mobile Case,Accessories,North,1,32439,819,Credit Card
+2043,2024-01-05,Nisha,Headphones,Electronics,South,3,16390,8176,Credit Card
+2044,2024-03-03,Nisha,Charger,Accessories,North,1,28648,5244,Credit Card
+2045,2024-04-06,Diya,Mobile Case,Accessories,East,3,30441,7357,Credit Card
+2046,2024-04-25,Sneha,Bluetooth Speaker,Electronics,South,1,750,51,Net Banking
+2047,2024-04-26,Riya,Headphones,Electronics,East,3,1755,7787,Cash on Delivery
+2048,2024-02-22,Nisha,Keyboard,Accessories,South,2,2143,5075,Cash on Delivery
+2049,2024-02-24,Meera,Tablet,Electronics,East,1,41130,995,Net Banking
+2050,2024-03-15,Aarav,Laptop,Electronics,South,1,50909,5121,Cash on Delivery
+2051,2024-02-22,Karan,Mouse,Accessories,North,2,31325,5933,UPI
+2052,2024-04-22,Aarav,Smartwatch,Electronics,South,1,22751,4395,Debit Card
+2053,2024-04-28,Arjun,Mobile Case,Accessories,South,2,39557,328,Cash on Delivery
+2054,2024-02-24,Diya,Bluetooth Speaker,Electronics,West,2,29193,1810,Debit Card
+2055,2024-02-24,Diya,Tablet,Electronics,South,1,9354,5170,Cash on Delivery
+2056,2024-04-11,Arjun,Headphones,Electronics,West,1,47135,9005,Debit Card
+2057,2024-04-11,Vikram,Bluetooth Speaker,Electronics,North,3,47612,1149,Credit Card
+2058,2024-01-13,Diya,Mouse,Accessories,North,2,12253,828,UPI
+2059,2024-03-23,Arjun,Smartwatch,Electronics,East,2,53676,2653,UPI
+2060,2024-01-21,Vikram,Mouse,Accessories,East,3,49454,7376,Cash on Delivery
+2061,2024-01-02,Diya,Smartwatch,Electronics,West,3,43772,7328,Cash on Delivery
+2062,2024-04-15,Sneha,Charger,Accessories,West,3,15417,7817,Cash on Delivery
+2063,2024-02-14,Diya,Tablet,Electronics,West,3,53015,4325,Cash on Delivery
+2064,2024-02-14,Nisha,Smartwatch,Electronics,East,1,30819,5836,Debit Card
+2065,2024-04-18,Arjun,Power Bank,Electronics,North,3,3320,1572,UPI
+2066,2024-04-29,Diya,Power Bank,Electronics,West,2,13898,6310,Debit Card
+2067,2024-02-22,Sneha,Power Bank,Electronics,North,2,27839,4058,Cash on Delivery
+2068,2024-04-20,Karan,Laptop,Electronics,West,1,53442,6883,Debit Card
+2069,2024-03-15,Diya,Charger,Accessories,South,1,29346,5482,Debit Card
+2070,2024-03-12,Meera,Laptop,Electronics,West,3,37729,5725,Cash on Delivery
+2071,2024-01-21,Vikram,Mouse,Accessories,West,2,5714,7665,Debit Card
+2072,2024-02-23,Sneha,Mobile Case,Accessories,West,2,21286,1930,UPI
+2073,2024-01-03,Meera,Bluetooth Speaker,Electronics,South,2,21456,5856,Cash on Delivery
+2074,2024-02-17,Karan,Mobile Case,Accessories,East,3,22539,201,Net Banking
+2075,2024-04-26,Riya,Tablet,Electronics,West,1,34256,6950,Cash on Delivery
+2076,2024-03-03,Arjun,Keyboard,Accessories,East,2,46454,9253,Cash on Delivery
+2077,2024-01-09,Sneha,Headphones,Electronics,North,1,9872,9900,Credit Card
+2078,2024-01-19,Karan,Mobile Case,Accessories,South,3,58643,6354,Credit Card
+2079,2024-04-07,Diya,Bluetooth Speaker,Electronics,South,3,59029,4222,Cash on Delivery
+2080,2024-02-19,Sneha,Charger,Accessories,North,2,18227,1874,UPI
+2081,2024-03-11,Riya,Keyboard,Accessories,East,3,15310,8883,UPI
+2082,2024-04-21,Aarav,Laptop,Electronics,South,2,27530,6136,UPI
+2083,2024-01-26,Diya,Mouse,Accessories,South,1,26956,3742,UPI
+2084,2024-01-23,Sneha,Keyboard,Accessories,South,1,30212,5072,Net Banking
+2085,2024-04-09,Meera,Mobile Case,Accessories,North,1,16199,8529,Debit Card
+2086,2024-04-25,Aarav,Mobile Case,Accessories,North,2,20556,2571,UPI
+2087,2024-04-15,Riya,Charger,Accessories,West,2,27636,62,Net Banking
+2088,2024-04-11,Sneha,Smartwatch,Electronics,North,2,23491,2151,Cash on Delivery
+2089,2024-01-28,Sneha,Power Bank,Electronics,South,1,3240,2131,Net Banking
+2090,2024-03-06,Nisha,Keyboard,Accessories,North,3,43089,4040,Debit Card
+2091,2024-04-13,Aarav,Smartwatch,Electronics,East,1,27513,1999,UPI
+2092,2024-02-14,Rohit,Keyboard,Accessories,West,1,5137,2999,Debit Card
+2093,2024-03-27,Riya,Laptop,Electronics,East,3,58939,6288,Credit Card
+2094,2024-02-28,Karan,Keyboard,Accessories,West,3,44955,7183,Debit Card
+2095,2024-03-22,Meera,Tablet,Electronics,North,3,9954,3247,Credit Card
+2096,2024-01-12,Meera,Mouse,Accessories,West,1,27582,5259,Net Banking
+2097,2024-02-26,Sneha,Power Bank,Electronics,South,2,10681,4160,Credit Card
+2098,2024-02-11,Karan,Keyboard,Accessories,West,1,50864,8190,Credit Card
+2099,2024-01-03,Riya,Bluetooth Speaker,Electronics,East,1,48032,4966,Debit Card
+2100,2024-03-20,Meera,Bluetooth Speaker,Electronics,North,3,2295,8565,Credit Card
+2101,2024-04-23,Meera,Tablet,Electronics,North,2,38640,1779,Debit Card
+2102,2024-04-27,Arjun,Charger,Accessories,East,2,20121,1295,Net Banking
+2103,2024-03-01,Aarav,Bluetooth Speaker,Electronics,North,1,5027,6893,Debit Card
+2104,2024-03-22,Aarav,Charger,Accessories,South,1,38838,529,Debit Card
+2105,2024-01-30,Diya,Charger,Accessories,East,3,39895,6535,UPI
+2106,2024-03-20,Riya,Laptop,Electronics,West,3,40911,2539,Debit Card
+2107,2024-03-02,Vikram,Tablet,Electronics,North,3,54912,9031,Credit Card
+2108,2024-02-23,Vikram,Mouse,Accessories,South,2,57837,8556,UPI
+2109,2024-02-02,Sneha,Smartwatch,Electronics,South,1,1641,6300,Cash on Delivery
+2110,2024-02-16,Rohit,Power Bank,Electronics,East,2,29678,6394,UPI
+2111,2024-01-25,Diya,Mouse,Accessories,South,1,42224,5958,Debit Card
+2112,2024-03-08,Sneha,Bluetooth Speaker,Electronics,South,2,10101,5455,Debit Card
+2113,2024-04-06,Rohit,Power Bank,Electronics,East,3,6285,4241,Debit Card
+2114,2024-04-23,Riya,Mobile Case,Accessories,North,2,8081,5089,Net Banking
+2115,2024-01-07,Arjun,Smartwatch,Electronics,West,3,3454,3642,Net Banking
+2116,2024-03-14,Rohit,Mouse,Accessories,East,1,1787,361,Credit Card
+2117,2024-01-05,Diya,Laptop,Electronics,South,3,35394,8915,Cash on Delivery
+2118,2024-02-02,Diya,Charger,Accessories,East,2,27384,7108,UPI
+2119,2024-04-15,Nisha,Mobile Case,Accessories,North,2,36450,738,Cash on Delivery
+2120,2024-01-03,Aarav,Mouse,Accessories,West,2,5268,7413,UPI
+2121,2024-01-03,Karan,Smartwatch,Electronics,East,2,44212,6500,Debit Card
+2122,2024-03-26,Rohit,Power Bank,Electronics,West,1,19504,5577,Cash on Delivery
+2123,2024-01-12,Karan,Charger,Accessories,West,2,32389,4160,Debit Card
+2124,2024-01-10,Diya,Power Bank,Electronics,North,1,54037,7914,UPI
+2125,2024-03-30,Karan,Smartwatch,Electronics,South,3,40393,1608,Debit Card
+2126,2024-04-22,Aarav,Keyboard,Accessories,East,1,4584,8757,Net Banking
+2127,2024-04-30,Riya,Charger,Accessories,North,2,38315,5192,UPI
+2128,2024-02-09,Rohit,Smartwatch,Electronics,North,3,24976,5769,Cash on Delivery
+2129,2024-03-26,Karan,Headphones,Electronics,East,1,58113,9141,Cash on Delivery
+2130,2024-03-17,Meera,Charger,Accessories,South,2,23022,2997,Net Banking
+2131,2024-01-25,Diya,Power Bank,Electronics,East,2,24962,4567,Credit Card
+2132,2024-04-15,Meera,Mouse,Accessories,East,2,53578,1238,Cash on Delivery
+2133,2024-03-06,Rohit,Mobile Case,Accessories,West,1,45060,9606,Net Banking
+2134,2024-02-07,Meera,Keyboard,Accessories,North,1,16895,1310,Debit Card
+2135,2024-04-01,Aarav,Charger,Accessories,West,1,8697,8342,Net Banking
+2136,2024-04-23,Arjun,Power Bank,Electronics,South,3,7822,3790,UPI
+2137,2024-03-19,Nisha,Mouse,Accessories,West,2,18587,7231,Credit Card
+2138,2024-02-06,Aarav,Mouse,Accessories,East,3,54483,3849,Debit Card
+2139,2024-03-02,Sneha,Mouse,Accessories,North,2,51559,2572,Debit Card
+2140,2024-03-08,Aarav,Mobile Case,Accessories,East,1,23048,2601,Cash on Delivery
+2141,2024-01-07,Nisha,Smartwatch,Electronics,East,3,2744,7127,Net Banking
+2142,2024-04-30,Vikram,Power Bank,Electronics,East,2,52871,1815,Cash on Delivery
+2143,2024-01-08,Diya,Tablet,Electronics,North,2,19490,57,Credit Card
+2144,2024-03-06,Riya,Power Bank,Electronics,West,1,7119,5896,Credit Card
+2145,2024-02-19,Arjun,Keyboard,Accessories,West,1,37691,235,UPI
+2146,2024-03-20,Meera,Tablet,Electronics,West,2,34717,7084,Credit Card
+2147,2024-03-04,Vikram,Keyboard,Accessories,South,2,30936,2229,Debit Card
+2148,2024-02-17,Riya,Smartwatch,Electronics,North,3,1391,5295,UPI
+2149,2024-01-15,Diya,Charger,Accessories,West,2,16650,9604,Debit Card
+2150,2024-02-11,Diya,Headphones,Electronics,North,2,58874,6170,Debit Card
+2151,2024-03-12,Meera,Tablet,Electronics,West,1,46368,4148,UPI
+2152,2024-03-03,Arjun,Charger,Accessories,West,2,13744,5928,Debit Card
+2153,2024-04-16,Meera,Headphones,Electronics,South,1,1285,2850,Credit Card
+2154,2024-01-04,Arjun,Smartwatch,Electronics,East,2,45511,6161,Debit Card
+2155,2024-03-08,Riya,Mobile Case,Accessories,South,3,2100,1121,Net Banking
+2156,2024-02-22,Rohit,Mouse,Accessories,South,1,16536,493,Cash on Delivery
+2157,2024-03-26,Vikram,Bluetooth Speaker,Electronics,South,2,9361,668,UPI
+2158,2024-01-08,Rohit,Keyboard,Accessories,North,3,717,7122,Credit Card
+2159,2024-04-14,Vikram,Power Bank,Electronics,East,3,8888,1683,Cash on Delivery
+2160,2024-01-12,Rohit,Bluetooth Speaker,Electronics,East,1,47164,8866,Net Banking
+2161,2024-01-24,Rohit,Smartwatch,Electronics,East,2,4876,4923,Debit Card
+2162,2024-03-07,Vikram,Mouse,Accessories,North,3,3571,2636,Debit Card
+2163,2024-01-12,Diya,Charger,Accessories,East,1,42802,4035,UPI
+2164,2024-03-16,Meera,Smartwatch,Electronics,East,2,50899,5465,Debit Card
+2165,2024-01-26,Sneha,Mobile Case,Accessories,West,3,56501,9705,UPI
+2166,2024-01-16,Rohit,Headphones,Electronics,North,1,59300,1315,Cash on Delivery
+2167,2024-02-04,Diya,Mobile Case,Accessories,East,2,20838,2148,Credit Card
+2168,2024-03-19,Rohit,Bluetooth Speaker,Electronics,North,2,42551,6390,Net Banking
+2169,2024-04-28,Riya,Mobile Case,Accessories,North,1,31374,4615,Credit Card
+2170,2024-02-29,Vikram,Mobile Case,Accessories,East,3,860,8296,Credit Card
+2171,2024-03-22,Karan,Keyboard,Accessories,East,2,57767,4005,Net Banking
+2172,2024-03-15,Nisha,Keyboard,Accessories,East,3,24132,455,Cash on Delivery
+2173,2024-04-07,Rohit,Mouse,Accessories,East,3,51568,3892,Net Banking
+2174,2024-01-14,Aarav,Mobile Case,Accessories,East,1,52061,9235,Debit Card
+2175,2024-01-31,Meera,Mouse,Accessories,West,1,42777,5276,Net Banking
+2176,2024-04-12,Aarav,Power Bank,Electronics,East,2,24943,6170,Debit Card
+2177,2024-03-19,Arjun,Mouse,Accessories,East,3,7999,2691,Net Banking
+2178,2024-03-09,Arjun,Headphones,Electronics,West,2,55801,9248,Net Banking
+2179,2024-01-25,Diya,Charger,Accessories,South,3,6769,6853,Debit Card
+2180,2024-01-13,Meera,Mobile Case,Accessories,West,1,19845,7448,Net Banking
+2181,2024-01-02,Arjun,Mobile Case,Accessories,North,1,57869,8455,Cash on Delivery
+2182,2024-02-16,Rohit,Mouse,Accessories,East,3,37783,8045,Net Banking
+2183,2024-03-22,Riya,Smartwatch,Electronics,North,2,18729,4569,Cash on Delivery
+2184,2024-01-21,Meera,Smartwatch,Electronics,East,3,419,9048,Credit Card
+2185,2024-02-11,Arjun,Keyboard,Accessories,East,1,45068,2832,UPI
+2186,2024-04-20,Vikram,Power Bank,Electronics,West,1,54904,2606,UPI
+2187,2024-01-02,Arjun,Charger,Accessories,North,3,30906,1516,Net Banking
+2188,2024-02-10,Diya,Keyboard,Accessories,East,3,8160,2972,Credit Card
+2189,2024-01-18,Diya,Bluetooth Speaker,Electronics,South,2,2823,9731,Credit Card
+2190,2024-01-02,Diya,Smartwatch,Electronics,West,3,37442,1838,Net Banking
+2191,2024-03-27,Diya,Tablet,Electronics,West,2,7647,3094,Credit Card
+2192,2024-01-19,Vikram,Tablet,Electronics,West,1,26712,5361,Cash on Delivery
+2193,2024-03-01,Rohit,Bluetooth Speaker,Electronics,North,3,16885,8996,Cash on Delivery
+2194,2024-04-25,Nisha,Power Bank,Electronics,North,3,9690,4980,Net Banking
+2195,2024-04-05,Vikram,Charger,Accessories,East,2,25458,3588,Net Banking
+2196,2024-03-03,Arjun,Mobile Case,Accessories,North,2,21374,3836,Cash on Delivery
+2197,2024-02-04,Rohit,Headphones,Electronics,West,1,7142,6970,Credit Card
+2198,2024-03-02,Meera,Charger,Accessories,West,1,33023,1830,Credit Card
+2199,2024-01-03,Rohit,Charger,Accessories,East,3,21227,6185,Cash on Delivery
+2200,2024-01-31,Vikram,Keyboard,Accessories,North,1,12940,1736,Debit Card
